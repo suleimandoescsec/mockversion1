@@ -24,6 +24,8 @@ dotnet publish -c release -r win-x64 --self-contained true -p:AssemblyName=YourA
 
 Self-contained is larger but needs no .NET and no Edge on the target machine.
 
+everything in this was setup so i can take notes while i stream on twitch without my stream crashing and i can teach my students
+
 `-p:AssemblyName=` sets the executable name — set it to whatever you want.
 
 Output lands in `./publish`.
