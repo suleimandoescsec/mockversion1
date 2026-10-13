@@ -28,7 +28,6 @@ Self-contained is larger but needs no .NET and no Edge on the target machine.
 
 Output lands in `./publish`.
 
-Replace the app name with something else if you intend to cheat an exam with this.
 
 ## License
 
